@@ -23,7 +23,7 @@ This Python-based task manager provides a versatile solution for organizing and 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed (version 3.6 or higher).
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the `task_manager.py` file to start the task manager.
+4. Run the `todoList-manager.py` file to start the task manager.
 
 ## Dependencies
 
