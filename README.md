@@ -39,6 +39,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this task manager.
 
-## Author
 
-Toktar Kametay, just a lover of entertainment
