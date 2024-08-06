@@ -4,7 +4,7 @@ This Python-based task manager provides a versatile solution for organizing and 
 
 ## Features
 
-- **Task Management**: Easily add, complete, and update tasks.
+- **Task Management**: Easily add, complete,and update tasks.
 - **Real-Time Updates**: Receive notifications when tasks are nearing completion or overdue.
 - **Sorting Options**: Sort tasks based on priority, time left, or name for better organization.
 - **User-Friendly Interface**: Clear and concise display of tasks for seamless task management.
