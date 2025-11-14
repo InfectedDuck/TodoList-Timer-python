@@ -33,10 +33,12 @@ This Python-based task manager provides a versatile solution for organizing and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.  
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the terms of the MIT License.  
 
-## Contributions
+For full details, see the [LICENSE](LICENSE) file.
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this task manager.
+
+
 
 
